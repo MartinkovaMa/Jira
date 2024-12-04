@@ -6,5 +6,5 @@ We tested an application for registering students to IT courses. Over the course
 # Bug report
 Bug report example, Bug found in Mobile Application InterGO
 
-#Tricentis Test Management Tool
+# Tricentis Test Management Tool
 example of execution
